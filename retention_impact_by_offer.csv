@@ -1,0 +1,11 @@
+selected_offer,attempts,retained_events,canceled_events,paused_events,save_rate_pct,estimated_monthly_revenue_associated
+none,1102,243,859,0,22.05,150957
+lower_cost_plan,316,119,197,0,37.66,65781
+usage_guidance,271,87,184,0,32.1,51013
+optional_pause,251,76,157,18,30.28,47324
+account_pause,241,60,163,18,24.9,34640
+discount_10pct,184,48,136,0,26.09,28152
+feature_information,168,45,123,0,26.79,26255
+payment_recovery,142,46,96,0,32.39,26954
+feature_comparison,68,21,47,0,30.88,12279
+neutral_options,53,20,33,0,37.74,12580
